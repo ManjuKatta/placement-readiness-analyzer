@@ -1,13 +1,15 @@
 venv/
 __pycache__/
 .ipynb_checkpoints/
+
 old_versions/
 data/processed/
 
+models/*.pkl
+models/*.joblib
 
 *.pyc
 *.pyo
 
 .streamlit/
-
 .env
